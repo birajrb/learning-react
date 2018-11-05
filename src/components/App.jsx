@@ -7,7 +7,8 @@ class App extends Component {
     company: {
       name: "Biraj's Company",
       address: "archalbot",
-      members: ["pradish", "biraj"]
+      members: ["pradish", "biraj", "srijan", "kabir", "swornim"],
+      leader: "pradish"
     }
   };
   render() {
